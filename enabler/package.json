@@ -1,0 +1,12 @@
+{
+  "name": "enabler",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2",
+  }
+}
